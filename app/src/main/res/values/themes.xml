@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Snake" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Androideko Statusbar marraztu -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- Statusbar atzealde zuria -->
+        <item name="android:statusBarColor">#FFFFFFFF</item>
+
+        <!-- ikono ilunak -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
