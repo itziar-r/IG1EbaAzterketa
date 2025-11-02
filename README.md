@@ -1,4 +1,4 @@
-🐍 **Snake** — Jetpack Compose azterketa
+# 🐍 Snake — Jetpack Compose azterketa
 
 **Snake** bideojoko klasikoa da. Jokalariak pantailan mugitzen den suge bat kontrolatzen du hazteko janaria jan behar duena.
 
